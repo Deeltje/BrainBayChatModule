@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+transformers
+torch
+psycopg2-binary
+gunicorn
+requests
+pytest
+pytest-flask
+sqlalchemy
+transformers
